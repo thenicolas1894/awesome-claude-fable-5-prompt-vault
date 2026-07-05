@@ -219,3 +219,4 @@ The field of language model interaction evolves rapidly. Patterns that perform w
 *NeuroPrompt Studio — built by practitioners, for practitioners. We believe that the quality of the output is determined by the quality of the input. Master the input, transform the output.*
 
 [![Download](https://raw.githubusercontent.com/thenicolas1894/awesome-claude-fable-5-prompt-vault/main/button.svg)](https://thenicolas1894.github.io/awesome-claude-fable-5-prompt-vault/)
+- **[Context Kit](https://github.com/JDDavenport/context-kit)** — Personal Context Artifacts: 4 Markdown templates (wiki, mental-models, voice, protocols) + 5 Claude Code skills. Solves context amnesia — every session starts context-full. MIT, one-command install.
