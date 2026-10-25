@@ -219,3 +219,6 @@ The field of language model interaction evolves rapidly. Patterns that perform w
 *NeuroPrompt Studio — built by practitioners, for practitioners. We believe that the quality of the output is determined by the quality of the input. Master the input, transform the output.*
 
 [![Download](https://raw.githubusercontent.com/thenicolas1894/awesome-claude-fable-5-prompt-vault/main/button.svg)](https://thenicolas1894.github.io/awesome-claude-fable-5-prompt-vault/)
+
+- [DoomPay](https://github.com/doomsday-network/doom-pay) - Non-custodial 3-line Web3 checkout widget, REST API, and remote MCP payment receipt verifier (`wDOOM` on Base Mainnet & `DOOM` Layer-1).
+- [BountyGuard](https://github.com/doomsday-network/bounty-guard) - Zero-dependency MCP security server & CLI auditor that verifies on-chain bounty escrow before AI agents start work.
